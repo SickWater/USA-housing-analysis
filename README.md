@@ -50,4 +50,4 @@ Features
 
 Credits
 
-This project was created as a learning exercise following Python tutorials. All code has been written and adapted by [Jackie Tan], with a few tweaks by SickWater
+This project was created as a learning exercise following Python tutorials. All code has been written and adapted by Jackie Tan, with a few tweaks by SickWater
