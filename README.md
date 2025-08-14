@@ -30,3 +30,24 @@ You can install the required packages using:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+##Usage
+
+1. Clone the repository:
+   git clone https://github.com/SickWater/USA-housing-analysis.git
+
+2. Open the notebook in jupyter or vs code
+3  Run the cells to explore data, train the model, and evaluate performance.
+
+Features
+
+-Descriptive statistics and data visualization
+-Correlation heatmaps and pair plots
+-Linear Regression model training
+-Model evaluation using MAE, MSE, RMSE, R-squared
+-Cross-validation for robust performance evaluation
+
+Credits
+
+This project was created as a learning exercise following Python tutorials. All code has been written and adapted by [Jackie Tan], with a few tweaks by SickWater
